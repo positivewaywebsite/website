@@ -1,0 +1,97 @@
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	background-image: url(images/common/background.jpg);
+}
+a:link {
+	font-family: Arial, Helvetica, sans-serif;
+	color: #0000FF;
+}
+a:visited {
+	font-family: Arial, Helvetica, sans-serif;
+	color: #9933CC;
+}
+a:active {
+	font-family: Arial, Helvetica, sans-serif;
+	color: #FF9933;
+}
+p {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	margin-right: 20px;
+	margin-left: 20px;
+}
+.copyright {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	color: #FF9933;
+}
+.PicTitle {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	font-style: normal;
+	font-weight: bold;
+	color: #663333;
+	text-decoration: underline overline;
+	border: none;
+	padding-top: 4px;
+	padding-bottom: 4px;
+}
+ul {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	font-weight: normal;
+}
+.block1 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+}
+.prices {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	color: #0000FF;
+}
+.block2 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	color: #000;
+}
+img {
+	border: none;
+}
+.bluelink {
+font-size: 18px; color: #0000FF;
+}
+.yellowtext {
+color: #FFFF00
+}
+.purpletext {
+	font-size: 18px;
+	color: #CC00FF;
+}
+.PhoneNumber {
+
+	font-size: 24px;
+	color: #CC00FF;
+}
+.orientationtimes {
+color: #9900FF
+}
+.redtext {
+	color: #F00;
+	font-weight: bold;
+}
+.smallfont {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	font-style: normal;
+	color: #000000;
+}
+.redlink {
+	font-family: Arial, Helvetica, sans-serif;
+	color: #CC0000;
+	border: ridge #CCCCCC;
+}
+Important note {
+	color: #0F0;
+}
